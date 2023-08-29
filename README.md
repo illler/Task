@@ -70,9 +70,7 @@
             <scope>provided</scope>
         </dependency>
 ```
-## Получение файла `tickets.json`
 
-Скачайте файл `tickets.json` по [этой ссылке](https://disk.yandex.ru/d/oytpde1hp8DBRQ).
 
 
 
